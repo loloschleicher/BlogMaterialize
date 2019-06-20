@@ -1,0 +1,4 @@
+[0511/135424.591:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0511/135425.110:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0511/135425.115:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0511/135426.607:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
